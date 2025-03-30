@@ -1,0 +1,636 @@
+Name,Attendance Count,Cheating Incident Count (Yes),Cheating Incident Count (No),Head Movement,Left Eye,Right Eye,Head Position,Date,Time,SessionID,StudentID,SoundDetection,BackgroundNoiseLevel,Performance,Marks,Difficulty,Subject,Overall Performance
+soumya deep saha,86,22,64,2.63 degrees,Open,Open,Tilted Up,21-05-2024,16:57.2,E3DPROH3,02VZR8WN,No,Unknown,Average,11,Hard,Aptitude,Average
+soumya deep saha,86,22,64,2.63 degrees,Open,Open,Tilted Up,21-05-2024,16:57.2,E3DPROH3,02VZR8WN,No,Unknown,Average,6,Medium,English,Poor
+soumya deep saha,86,22,64,-2.20 degrees,Open,Open,Tilted Up,21-05-2024,17:08.4,XWY124XC,05ZM1PPR,No,Unknown,Average,6,Easy,English,Poor
+soumya deep saha,86,22,64,-2.20 degrees,Open,Open,Tilted Up,21-05-2024,17:08.4,XWY124XC,05ZM1PPR,No,Unknown,Average,21,Hard,English,Very Good
+soumya deep saha,86,22,64,-2.20 degrees,Open,Open,Tilted Up,21-05-2024,17:08.4,XWY124XC,05ZM1PPR,No,Unknown,Average,8,Medium,Aptitude,Poor
+soumya deep saha,86,22,64,-2.20 degrees,Open,Open,Tilted Up,21-05-2024,17:08.4,XWY124XC,05ZM1PPR,No,Unknown,Average,19,Easy,Aptitude,Good
+soumya deep saha,86,22,64,2.84 degrees,Open,Open,Tilted Up,21-05-2024,17:28.6,NZA6TPEE,RMCOE7J9,Yes,Low,Average,0,Hard,English,Poor
+soumya deep saha,86,22,64,2.84 degrees,Open,Open,Tilted Up,21-05-2024,17:28.6,NZA6TPEE,RMCOE7J9,Yes,Low,Average,7,Medium,Aptitude,Poor
+soumya deep saha,86,22,64,0.00 degrees,Open,Open,Tilted Up,21-05-2024,17:41.0,YSCTIV7A,8VNWXG0T,Yes,High,Average,7,Medium,Aptitude,Poor
+soumya deep saha,86,22,64,0.00 degrees,Open,Open,Tilted Up,22-05-2024,38:16.8,GP7LOICH,JICJRI1H,No,Unknown,Average,4,Easy,English,Poor
+soumya deep saha,86,22,64,0.00 degrees,Open,Open,Tilted Up,22-05-2024,38:16.8,GP7LOICH,JICJRI1H,No,Unknown,Average,18,Medium,English,Good
+soumya deep saha,86,22,64,0.00 degrees,Open,Open,Tilted Up,22-05-2024,38:16.8,GP7LOICH,JICJRI1H,No,Unknown,Average,25,Medium,Aptitude,Very Good
+soumya deep saha,86,22,64,0.00 degrees,Open,Open,Tilted Up,22-05-2024,38:16.8,GP7LOICH,JICJRI1H,Yes,High,Average,19,Hard,Aptitude,Good
+soumya deep saha,86,22,64,0.00 degrees,Open,Open,Tilted Up,22-05-2024,38:16.8,GP7LOICH,JICJRI1H,Yes,Unknown,Average,7,Easy,Aptitude,Poor
+soumya deep saha,86,22,64,1.88 degrees,Open,Open,Tilted Up,22-05-2024,39:03.0,9VH5DY7E,KXEHF2QX,Yes,Low,Average,26,Hard,English,Excellent
+soumya deep saha,86,22,64,1.88 degrees,Open,Open,Tilted Up,22-05-2024,39:03.0,9VH5DY7E,KXEHF2QX,Yes,High,Average,4,Easy,English,Poor
+soumya deep saha,86,22,64,1.88 degrees,Open,Open,Tilted Up,22-05-2024,39:03.0,9VH5DY7E,KXEHF2QX,No,Unknown,Average,12,Hard,English,Average
+soumya deep saha,86,22,64,1.88 degrees,Open,Open,Tilted Up,22-05-2024,39:03.0,9VH5DY7E,KXEHF2QX,No,Unknown,Average,18,Easy,English,Good
+soumya deep saha,86,22,64,-4.59 degrees,Open,Open,Tilted Down,22-05-2024,39:43.1,FV9C45TD,XEMQZ8L2,No,Unknown,Many Cheater,3,Medium,English,Poor
+soumya deep saha,86,22,64,-4.59 degrees,Open,Open,Tilted Down,22-05-2024,39:43.1,FV9C45TD,XEMQZ8L2,No,Unknown,Many Cheater,21,Medium,HTML,Very Good
+soumya deep saha,86,22,64,-4.59 degrees,Open,Open,Tilted Down,22-05-2024,39:43.1,FV9C45TD,XEMQZ8L2,No,Unknown,Many Cheater,16,Medium,Aptitude,Good
+soumya deep saha,86,22,64,3.67 degrees,Open,Open,Not Moving,22-05-2024,40:10.9,9BNVH3MA,86P4WORB,No,Unknown,Average,25,Hard,Aptitude,Excellent
+soumya deep saha,86,22,64,3.67 degrees,Open,Open,Not Moving,22-05-2024,40:10.9,9BNVH3MA,86P4WORB,No,Unknown,Average,13,Easy,Aptitude,Average
+soumya deep saha,86,22,64,0.82 degrees,Open,Open,Tilted Down,22-05-2024,41:03.2,47AL3V91,IVPWUTGX,No,Unknown,Many Cheater,24,Hard,Aptitude,Very Good
+soumya deep saha,86,22,64,0.82 degrees,Open,Open,Tilted Down,22-05-2024,41:03.2,47AL3V91,IVPWUTGX,No,Unknown,Many Cheater,16,Hard,English,Good
+soumya deep saha,86,22,64,0.82 degrees,Open,Open,Tilted Down,22-05-2024,41:03.2,47AL3V91,IVPWUTGX,No,Unknown,Very Good,19,Hard,Aptitude,Good
+soumya deep saha,86,22,64,0.82 degrees,Open,Open,Tilted Down,22-05-2024,41:03.2,47AL3V91,IVPWUTGX,No,Unknown,Many Cheater,10,Easy,HTML,Average
+soumya deep saha,86,22,64,0.82 degrees,Open,Open,Tilted Down,22-05-2024,41:03.2,47AL3V91,IVPWUTGX,No,Unknown,Many Cheater,5,Easy,HTML,Poor
+soumya deep saha,86,22,64,0.82 degrees,Open,Open,Tilted Down,22-05-2024,41:03.2,47AL3V91,IVPWUTGX,No,Unknown,Many Cheater,24,Medium,Aptitude,Very Good
+soumya deep saha,86,22,64,3.52 degrees,Open,Open,Tilted Up,22-05-2024,41:35.4,UMAOQK45,YKMU09DF,No,Unknown,Average,27,Easy,HTML,Very Good
+soumya deep saha,86,22,64,-4.81 degrees,Open,Open,Tilted Down,22-05-2024,43:19.2,OV1BLRRN,IW7ZMTMK,No,Unknown,Many Cheater,11,Medium,Aptitude,Average
+soumya deep saha,86,22,64,-4.81 degrees,Open,Open,Tilted Down,22-05-2024,43:19.2,OV1BLRRN,IW7ZMTMK,No,Unknown,Very Good,2,Medium,English,Poor
+soumya deep saha,86,22,64,-4.81 degrees,Open,Open,Tilted Down,22-05-2024,43:19.2,OV1BLRRN,IW7ZMTMK,No,Unknown,Many Cheater,19,Hard,Aptitude,Good
+soumya deep saha,86,22,64,-1.03 degrees,Open,Open,Tilted Up,22-05-2024,43:31.5,FIVZQ0SM,8YSXG64W,No,Unknown,Average,4,Hard,English,Poor
+soumya deep saha,86,22,64,-1.03 degrees,Open,Open,Tilted Up,22-05-2024,43:31.5,FIVZQ0SM,8YSXG64W,No,Unknown,Average,15,Medium,English,Good
+soumya deep saha,86,22,64,-1.03 degrees,Open,Open,Tilted Up,22-05-2024,43:31.5,FIVZQ0SM,8YSXG64W,No,Unknown,Average,13,Easy,Aptitude,Average
+soumya deep saha,86,22,64,-1.03 degrees,Open,Open,Tilted Up,22-05-2024,43:31.5,FIVZQ0SM,8YSXG64W,No,Unknown,Average,3,Medium,English,Poor
+soumya deep saha,86,22,64,-1.03 degrees,Open,Open,Tilted Up,22-05-2024,43:31.5,FIVZQ0SM,8YSXG64W,No,Unknown,Very Good,11,Hard,Aptitude,Average
+soumya deep saha,86,22,64,-1.03 degrees,Open,Open,Tilted Up,22-05-2024,43:31.5,FIVZQ0SM,8YSXG64W,No,Unknown,Average,20,Medium,English,Very Good
+soumya deep saha,86,22,64,-1.03 degrees,Open,Open,Tilted Up,22-05-2024,43:31.5,FIVZQ0SM,8YSXG64W,No,Unknown,Average,9,Medium,English,Poor
+soumya deep saha,86,22,64,2.70 degrees,Open,Open,Not Moving,22-05-2024,44:32.1,PQLLH6OH,JH1RGTCU,No,Unknown,Average,12,Easy,English,Average
+soumya deep saha,86,22,64,2.70 degrees,Open,Open,Not Moving,22-05-2024,44:32.1,PQLLH6OH,JH1RGTCU,No,Unknown,Average,25,Medium,English,Very Good
+soumya deep saha,86,22,64,2.70 degrees,Open,Open,Not Moving,22-05-2024,44:32.1,PQLLH6OH,JH1RGTCU,No,Unknown,Average,9,Medium,Aptitude,Poor
+soumya deep saha,86,22,64,3.55 degrees,Open,Open,Tilted Up,22-05-2024,44:47.2,23U9400G,YU4BKLNZ,No,Unknown,Very Good,0,Hard,Aptitude,Poor
+soumya deep saha,86,22,64,3.55 degrees,Open,Open,Tilted Up,22-05-2024,44:47.2,23U9400G,YU4BKLNZ,No,Unknown,Average,11,Hard,Aptitude,Average
+soumya deep saha,86,22,64,3.55 degrees,Open,Open,Tilted Up,22-05-2024,44:47.2,23U9400G,YU4BKLNZ,No,Unknown,Average,21,Medium,Aptitude,Very Good
+soumya deep saha,86,22,64,3.55 degrees,Open,Open,Tilted Up,22-05-2024,44:47.2,23U9400G,YU4BKLNZ,No,Unknown,Average,27,Hard,English,Excellent
+soumya deep saha,86,22,64,-1.29 degrees,Closed,Open,Tilted Up,22-05-2024,47:11.4,AX5NLG4S,C1YNT8ST,No,Unknown,Average,3,Easy,HTML,Poor
+soumya deep saha,86,22,64,5.56 degrees,Open,Open,Tilted Up,22-05-2024,47:25.5,2VRXOC0X,GT1P46CU,No,Unknown,Very Good,2,Easy,Aptitude,Poor
+soumya deep saha,86,22,64,5.56 degrees,Open,Open,Tilted Up,22-05-2024,47:25.5,2VRXOC0X,GT1P46CU,No,Unknown,Average,18,Medium,English,Good
+soumya deep saha,86,22,64,5.56 degrees,Open,Open,Tilted Up,22-05-2024,47:25.5,2VRXOC0X,GT1P46CU,No,Unknown,Average,15,Easy,HTML,Good
+soumya deep saha,86,22,64,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,19,Hard,HTML,Good
+soumya deep saha,86,22,64,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,16,Hard,English,Good
+soumya deep saha,86,22,64,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,18,Easy,Aptitude,Good
+soumya deep saha,86,22,64,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,12,Medium,English,Average
+soumya deep saha,86,22,64,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,7,Hard,Aptitude,Poor
+soumya deep saha,86,22,64,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,13,Easy,Aptitude,Average
+soumya deep saha,86,22,64,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,23,Medium,Aptitude,Very Good
+soumya deep saha,86,22,64,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,19,Hard,English,Good
+soumya deep saha,86,22,64,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,25,Medium,English,Very Good
+soumya deep saha,86,22,64,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,4,Hard,Aptitude,Poor
+soumya deep saha,86,22,64,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,29,Easy,Aptitude,Very Good
+soumya deep saha,86,22,64,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,4,Hard,Aptitude,Poor
+soumya deep saha,86,22,64,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,8,Hard,HTML,Poor
+soumya deep saha,86,22,64,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,18,Hard,Aptitude,Good
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,21,Hard,Aptitude,Very Good
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,3,Medium,Aptitude,Poor
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,19,Medium,English,Good
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,8,Easy,HTML,Poor
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,Yes,High,Many Cheater,13,Hard,English,Average
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,Yes,Low,Many Cheater,11,Hard,Aptitude,Average
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,14,Easy,Aptitude,Average
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,4,Medium,English,Poor
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,16,Medium,HTML,Good
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,6,Medium,Aptitude,Poor
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,28,Easy,HTML,Very Good
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,16,Hard,Aptitude,Good
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,19,Medium,Aptitude,Good
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,22,Hard,Aptitude,Very Good
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,Yes,High,Many Cheater,9,Easy,English,Poor
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,Yes,Low,Many Cheater,0,Easy,HTML,Poor
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,Yes,High,Many Cheater,11,Hard,Aptitude,Average
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,Yes,Low,Many Cheater,19,Hard,HTML,Good
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,3,Medium,English,Poor
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,1,Easy,HTML,Poor
+soumya deep saha,86,22,64,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,22,Medium,Aptitude,Very Good
+dola saha,32,32,0,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Average,8,Medium,English,Poor
+dola saha,32,32,0,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Average,4,Medium,English,Poor
+dola saha,32,32,0,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Average,11,Medium,English,Average
+dola saha,32,32,0,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Average,13,Easy,Aptitude,Average
+dola saha,32,32,0,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Very Good,0,Hard,Aptitude,Poor
+dola saha,32,32,0,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Very Good,17,Hard,English,Good
+dola saha,32,32,0,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Very Good,13,Easy,English,Average
+dola saha,32,32,0,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Average,9,Medium,Aptitude,Poor
+dola saha,32,32,0,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Average,17,Easy,English,Good
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Very Good,2,Easy,Subject,Poor
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Average,9,Easy,English,Poor
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Very Good,20,Medium,Aptitude,Very Good
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Average,23,Hard,English,Very Good
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Average,22,Hard,Aptitude,Very Good
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Average,10,Medium,Aptitude,Average
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Very Good,17,Medium,Aptitude,Good
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Average,3,Medium,Aptitude,Poor
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Very Good,3,Medium,Subject,Poor
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,28,Easy,English,Very Good
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,11,Hard,English,Average
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,0,Easy,Subject,Poor
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,22,Medium,Aptitude,Very Good
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,0,Hard,Subject,Poor
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,0,Easy,English,Poor
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,7,Hard,Subject,Poor
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,22,Hard,Aptitude,Very Good
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,0,Medium,Aptitude,Poor
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,6,Easy,Aptitude,Poor
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,23,Easy,Aptitude,Very Good
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,29,Medium,Aptitude,Very Good
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,25,Medium,English,Very Good
+dola saha,32,32,0,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,Yes,High,Average,2,Medium,English,Poor
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,Yes,Low,Many Cheater,19,Medium,HTML,Good
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,Yes,High,Many Cheater,26,Medium,Aptitude,Very Good
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,Yes,Low,Many Cheater,29,Medium,English,Very Good
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,Yes,High,Many Cheater,4,Easy,English,Poor
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,Yes,Low,Many Cheater,21,Medium,Aptitude,Very Good
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,Yes,High,Many Cheater,29,Medium,Aptitude,Very Good
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,Yes,Low,Many Cheater,22,Easy,HTML,Very Good
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,No,Unknown,Many Cheater,24,Medium,Aptitude,Very Good
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,No,Unknown,Many Cheater,14,Easy,English,Average
+sandip basak,31,9,22,-1.77 degrees,Open,Closed,Not Moving,22-05-2024,41:22.4,CWDMASPZ,PEQ5YVMH,No,Unknown,Very Good,29,Hard,Aptitude,Excellent
+sandip basak,31,9,22,-1.77 degrees,Open,Closed,Not Moving,22-05-2024,41:22.4,CWDMASPZ,PEQ5YVMH,No,Unknown,Very Good,3,Hard,Aptitude,Poor
+sandip basak,31,9,22,-1.77 degrees,Open,Closed,Not Moving,22-05-2024,41:22.4,CWDMASPZ,PEQ5YVMH,No,Unknown,Very Good,1,Medium,Aptitude,Poor
+sandip basak,31,9,22,-1.77 degrees,Open,Closed,Not Moving,22-05-2024,41:22.4,CWDMASPZ,PEQ5YVMH,No,Unknown,Very Good,26,Hard,HTML,Excellent
+sandip basak,31,9,22,2.02 degrees,Closed,Open,Tilted Up,22-05-2024,49:27.2,Z0E24EL8,1YWDCBHA,No,Unknown,Very Good,20,Easy,English,Very Good
+sandip basak,31,9,22,2.02 degrees,Closed,Open,Tilted Up,22-05-2024,49:27.2,Z0E24EL8,1YWDCBHA,No,Unknown,Very Good,17,Easy,Aptitude,Good
+sandip basak,31,9,22,2.02 degrees,Closed,Open,Tilted Up,22-05-2024,49:27.2,Z0E24EL8,1YWDCBHA,No,Unknown,Very Good,16,Hard,Aptitude,Good
+sandip basak,31,9,22,2.02 degrees,Closed,Open,Tilted Up,22-05-2024,49:27.2,Z0E24EL8,1YWDCBHA,No,Unknown,Very Good,24,Hard,HTML,Very Good
+sandip basak,31,9,22,2.02 degrees,Closed,Open,Tilted Up,22-05-2024,49:27.2,Z0E24EL8,1YWDCBHA,No,Unknown,Very Good,26,Medium,English,Very Good
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,21,Hard,HTML,Very Good
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,23,Medium,HTML,Very Good
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,18,Medium,HTML,Good
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,8,Easy,English,Poor
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,6,Hard,HTML,Poor
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,0,Hard,English,Poor
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,19,Hard,Aptitude,Good
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,29,Medium,Aptitude,Very Good
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,23,Medium,HTML,Very Good
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,5,Easy,HTML,Poor
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,16,Easy,Aptitude,Good
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,6,Medium,Aptitude,Poor
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,21,Medium,Aptitude,Very Good
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,21,Hard,Aptitude,Very Good
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,15,Medium,Aptitude,Good
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,10,Hard,English,Average
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,2,Hard,HTML,Poor
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,2,Hard,Aptitude,Poor
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,19,Easy,HTML,Good
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,24,Medium,HTML,Very Good
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,1,Medium,Aptitude,Poor
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,13,Medium,English,Average
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,23,Hard,Aptitude,Very Good
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,8,Medium,English,Poor
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,17,Medium,English,Good
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,14,Medium,HTML,Average
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,19,Hard,English,Good
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,11,Medium,English,Average
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,30,Medium,HTML,Very Good
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,10,Hard,English,Average
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,20,Medium,English,Very Good
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,6,Medium,English,Poor
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,16,Medium,English,Good
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,4,Hard,Aptitude,Poor
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,3,Medium,HTML,Poor
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,29,Hard,English,Excellent
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,5,Medium,Aptitude,Poor
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,5,Easy,Aptitude,Poor
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,10,Hard,Aptitude,Average
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,15,Hard,Subject,Good
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,17,Easy,English,Good
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,16,Medium,English,Good
+parna mitra,20,20,0,10.78 degrees,Open,Open,Tilted Up,22-05-2024,54:04.0,LWHTJQDP,JIW3JL28,No,Unknown,Good,15,Medium,English,Good
+parna mitra,20,20,0,10.78 degrees,Open,Open,Tilted Up,22-05-2024,54:04.0,LWHTJQDP,JIW3JL28,No,Unknown,Good,15,Easy,Aptitude,Good
+parna mitra,20,20,0,11.18 degrees,Open,Open,Tilted Up,22-05-2024,54:18.7,J9VOYLX8,FWJIH2V0,No,Unknown,Good,27,Medium,Subject,Very Good
+parna mitra,20,20,0,11.18 degrees,Open,Open,Tilted Up,22-05-2024,54:18.7,J9VOYLX8,FWJIH2V0,No,Unknown,Good,23,Medium,Subject,Very Good
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,24,Hard,Subject,Very Good
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,2,Hard,English,Poor
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,7,Medium,English,Poor
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,30,Medium,Subject,Very Good
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,22,Hard,Subject,Very Good
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,11,Easy,Subject,Average
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,7,Hard,Aptitude,Poor
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,30,Easy,Aptitude,Very Good
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,1,Easy,Aptitude,Poor
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,0,Hard,Subject,Poor
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,16,Easy,English,Good
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,0,Hard,Aptitude,Poor
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,17,Hard,Aptitude,Good
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,7,Easy,Aptitude,Poor
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,11,Hard,Subject,Average
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,13,Hard,Aptitude,Average
+priyambada das,19,19,0,22.25 degrees,Open,Open,Tilted Up,22-05-2024,38:47.2,IYCIMSCZ,RM68WPWS,No,Unknown,Good,26,Medium,Aptitude,Very Good
+priyambada das,19,19,0,22.25 degrees,Open,Open,Tilted Up,22-05-2024,38:47.2,IYCIMSCZ,RM68WPWS,No,Unknown,Good,5,Medium,Aptitude,Poor
+priyambada das,19,19,0,22.25 degrees,Open,Open,Tilted Up,22-05-2024,38:47.2,IYCIMSCZ,RM68WPWS,No,Unknown,Good,29,Medium,English,Very Good
+priyambada das,19,19,0,22.25 degrees,Open,Open,Tilted Up,22-05-2024,38:47.2,IYCIMSCZ,RM68WPWS,No,Unknown,Good,18,Easy,English,Good
+priyambada das,19,19,0,22.25 degrees,Open,Open,Tilted Up,22-05-2024,38:47.2,IYCIMSCZ,RM68WPWS,No,Unknown,Good,4,Easy,Aptitude,Poor
+priyambada das,19,19,0,16.96 degrees,Open,Open,Tilted Up,22-05-2024,39:11.8,CJ5QF1P8,79BKYHZ3,No,Unknown,Good,14,Medium,Aptitude,Average
+priyambada das,19,19,0,16.96 degrees,Open,Open,Tilted Up,22-05-2024,39:11.8,CJ5QF1P8,79BKYHZ3,No,Unknown,Good,22,Hard,Aptitude,Very Good
+priyambada das,19,19,0,16.96 degrees,Open,Open,Tilted Up,22-05-2024,39:11.8,CJ5QF1P8,79BKYHZ3,No,Unknown,Good,3,Hard,English,Poor
+priyambada das,19,19,0,20.51 degrees,Open,Open,Tilted Up,22-05-2024,39:50.7,YOMRM8IS,VOLHWP27,No,Unknown,Good,17,Easy,English,Good
+priyambada das,19,19,0,20.51 degrees,Open,Open,Tilted Up,22-05-2024,39:50.7,YOMRM8IS,VOLHWP27,No,Unknown,Good,30,Medium,English,Very Good
+priyambada das,19,19,0,20.51 degrees,Open,Open,Tilted Up,22-05-2024,39:50.7,YOMRM8IS,VOLHWP27,No,Unknown,Good,22,Easy,HTML,Very Good
+priyambada das,19,19,0,20.51 degrees,Open,Open,Tilted Up,22-05-2024,39:50.7,YOMRM8IS,VOLHWP27,No,Unknown,Good,2,Hard,Aptitude,Poor
+priyambada das,19,19,0,20.51 degrees,Open,Open,Tilted Up,22-05-2024,39:50.7,YOMRM8IS,VOLHWP27,No,Unknown,Good,30,Hard,HTML,Excellent
+priyambada das,19,19,0,17.61 degrees,Open,Open,Tilted Up,22-05-2024,41:08.3,AME3ZKRO,4UUZH09R,No,Unknown,Good,17,Hard,HTML,Good
+priyambada das,19,19,0,17.61 degrees,Open,Open,Tilted Up,22-05-2024,41:08.3,AME3ZKRO,4UUZH09R,No,Unknown,Good,12,Hard,HTML,Average
+priyambada das,19,19,0,17.61 degrees,Open,Open,Tilted Up,22-05-2024,41:08.3,AME3ZKRO,4UUZH09R,No,Unknown,Good,3,Easy,English,Poor
+priyambada das,19,19,0,19.05 degrees,Open,Open,Tilted Up,22-05-2024,41:26.6,5S0YTVF0,01IBGWCQ,No,Unknown,Good,18,Easy,English,Good
+priyambada das,19,19,0,19.05 degrees,Open,Open,Tilted Up,22-05-2024,41:26.6,5S0YTVF0,01IBGWCQ,No,Unknown,Good,20,Medium,Aptitude,Very Good
+priyambada das,19,19,0,19.05 degrees,Open,Open,Tilted Up,22-05-2024,41:26.6,5S0YTVF0,01IBGWCQ,No,Unknown,Good,2,Hard,English,Poor
+pradipta here,17,17,0,-1.41 degrees,Open,Closed,Not Moving,21-05-2024,17:18.1,1YWP9E17,RPLPBONW,No,Unknown,Good,19,Easy,Subject,Good
+pradipta here,17,17,0,-1.41 degrees,Open,Closed,Not Moving,21-05-2024,17:18.1,1YWP9E17,RPLPBONW,No,Unknown,Good,27,Easy,English,Very Good
+pradipta here,17,17,0,-1.41 degrees,Open,Closed,Not Moving,21-05-2024,17:18.1,1YWP9E17,RPLPBONW,No,Unknown,Good,16,Easy,Aptitude,Good
+pradipta here,17,17,0,-1.41 degrees,Open,Closed,Not Moving,21-05-2024,17:18.1,1YWP9E17,RPLPBONW,No,Unknown,Good,13,Hard,English,Average
+pradipta here,17,17,0,-1.41 degrees,Open,Closed,Not Moving,21-05-2024,17:18.1,1YWP9E17,RPLPBONW,No,Unknown,Good,20,Medium,English,Very Good
+pradipta here,17,17,0,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,13,Medium,Subject,Average
+pradipta here,17,17,0,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,23,Easy,English,Very Good
+pradipta here,17,17,0,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,1,Easy,Aptitude,Poor
+pradipta here,17,17,0,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,23,Easy,English,Very Good
+pradipta here,17,17,0,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,5,Hard,English,Poor
+pradipta here,17,17,0,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,20,Medium,HTML,Very Good
+pradipta here,17,17,0,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,27,Medium,HTML,Very Good
+pradipta here,17,17,0,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,4,Easy,English,Poor
+pradipta here,17,17,0,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,8,Medium,English,Poor
+pradipta here,17,17,0,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,24,Hard,Aptitude,Very Good
+pradipta here,17,17,0,-1.22 degrees,Closed,Closed,Tilted Down,22-05-2024,52:04.1,9WCHCNOE,ZW1K9XOF,?,Low,Many Cheater,28,Medium,Aptitude,Very Good
+pradipta here,17,17,0,-1.22 degrees,Closed,Closed,Tilted Down,22-05-2024,52:04.1,9WCHCNOE,ZW1K9XOF,Yes,Low,Many Cheater,16,Easy,Aptitude,Good
+santarpan pal,17,1,16,0.31 degrees,Open,Open,Tilted Down,22-05-2024,51:51.8,9P0E1PVM,R33O8TUX,Yes,Low,Many Cheater,30,Medium,Aptitude,Very Good
+santarpan pal,17,1,16,0.31 degrees,Open,Open,Tilted Down,22-05-2024,51:51.8,9P0E1PVM,R33O8TUX,Yes,Low,Many Cheater,25,Hard,Aptitude,Excellent
+santarpan pal,17,1,16,0.31 degrees,Open,Open,Tilted Down,22-05-2024,51:51.8,9P0E1PVM,R33O8TUX,Yes,Low,Many Cheater,29,Easy,English,Very Good
+santarpan pal,17,1,16,0.31 degrees,Open,Open,Tilted Down,22-05-2024,51:51.8,9P0E1PVM,R33O8TUX,Yes,Low,Many Cheater,9,Medium,Aptitude,Poor
+santarpan pal,17,1,16,-3.05 degrees,Closed,Closed,Tilted Down,22-05-2024,52:08.3,GL3RQSXV,B6X1Q7XP,No,Unknown,Many Cheater,0,Easy,English,Poor
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,13,Easy,English,Average
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,14,Easy,English,Average
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,1,Hard,Aptitude,Poor
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,5,Medium,Aptitude,Poor
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,24,Medium,English,Very Good
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,17,Hard,Aptitude,Good
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,22,Medium,Aptitude,Very Good
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,30,Hard,Aptitude,Excellent
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,23,Hard,Aptitude,Very Good
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,11,Medium,Subject,Average
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,19,Hard,English,Good
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,25,Medium,English,Very Good
+saptaparni rishi,13,0,13,2.09 degrees,Open,Open,Tilted Up,22-05-2024,43:36.0,C6TYI573,VBJ8BTMO,No,Unknown,Very Good,26,Medium,English,Very Good
+saptaparni rishi,13,0,13,2.09 degrees,Open,Open,Tilted Up,22-05-2024,43:36.0,C6TYI573,VBJ8BTMO,No,Unknown,Very Good,18,Easy,Aptitude,Good
+saptaparni rishi,13,0,13,0.97 degrees,Open,Open,Tilted Up,22-05-2024,43:53.1,1LZ4L1FP,19XS99AC,No,Unknown,Very Good,28,Medium,Subject,Very Good
+saptaparni rishi,13,0,13,0.97 degrees,Open,Open,Tilted Up,22-05-2024,43:53.1,1LZ4L1FP,19XS99AC,No,Unknown,Very Good,15,Medium,English,Good
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,21,Medium,English,Very Good
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,24,Hard,Aptitude,Very Good
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,1,Hard,English,Poor
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,0,Easy,English,Poor
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,26,Medium,English,Very Good
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,8,Medium,Aptitude,Poor
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,24,Medium,English,Very Good
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,30,Easy,Aptitude,Very Good
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,18,Hard,English,Good
+debjit mukharjee,13,0,13,-0.66 degrees,Open,Open,Tilted Up,22-05-2024,59:12.5,06AURGM5,X41CDNKF,No,Unknown,Very Good,20,Medium,Subject,Very Good
+debjit mukharjee,13,0,13,-0.66 degrees,Open,Open,Tilted Up,22-05-2024,59:12.5,06AURGM5,X41CDNKF,No,Unknown,Very Good,10,Easy,Aptitude,Average
+debjit mukharjee,13,0,13,-0.66 degrees,Open,Open,Tilted Up,22-05-2024,59:12.5,06AURGM5,X41CDNKF,No,Unknown,Very Good,7,Hard,English,Poor
+debjit mukharjee,13,0,13,-0.66 degrees,Open,Open,Tilted Up,22-05-2024,59:12.5,06AURGM5,X41CDNKF,No,Unknown,Very Good,2,Hard,Aptitude,Poor
+debjit mukharjee,13,0,13,0.00 degrees,Open,Open,Tilted Up,22-05-2024,59:30.1,OROXO9ZJ,WINLYBGD,No,Unknown,Very Good,20,Hard,English,Very Good
+debjit mukharjee,13,0,13,0.00 degrees,Open,Open,Tilted Up,22-05-2024,59:30.1,OROXO9ZJ,WINLYBGD,No,Unknown,Very Good,13,Hard,Subject,Average
+debjit mukharjee,13,0,13,0.00 degrees,Open,Open,Tilted Up,22-05-2024,59:30.1,OROXO9ZJ,WINLYBGD,No,Unknown,Very Good,19,Easy,Subject,Good
+debjit mukharjee,13,0,13,0.00 degrees,Open,Open,Tilted Up,22-05-2024,59:30.1,OROXO9ZJ,WINLYBGD,No,Unknown,Very Good,14,Easy,Aptitude,Average
+debjit mukharjee,13,0,13,0.00 degrees,Open,Open,Tilted Up,22-05-2024,59:30.1,OROXO9ZJ,WINLYBGD,No,Unknown,Very Good,16,Easy,Aptitude,Good
+debjit mukharjee,13,0,13,4.53 degrees,Open,Open,Tilted Up,22-05-2024,00:06.3,PHUPVC6H,TCOENI62,No,Unknown,Very Good,19,Hard,English,Good
+debjit mukharjee,13,0,13,4.53 degrees,Open,Open,Tilted Up,22-05-2024,00:06.3,PHUPVC6H,TCOENI62,No,Unknown,Very Good,27,Medium,Subject,Very Good
+debjit mukharjee,13,0,13,4.53 degrees,Open,Open,Tilted Up,22-05-2024,00:06.3,PHUPVC6H,TCOENI62,No,Unknown,Very Good,7,Easy,Aptitude,Poor
+debjit mukharjee,13,0,13,-4.44 degrees,Open,Open,Tilted Up,22-05-2024,00:18.6,SFP5A0ZH,SHPW8HPW,No,Unknown,Very Good,14,Easy,English,Average
+kausik saha,11,11,0,7.13 degrees,Closed,Open,Tilted Up,22-05-2024,51:03.0,W8AFZ2GX,TQBSLSM6,No,Unknown,Good,2,Easy,Subject,Poor
+kausik saha,11,11,0,7.13 degrees,Closed,Open,Tilted Up,22-05-2024,51:03.0,W8AFZ2GX,TQBSLSM6,No,Unknown,Good,15,Hard,English,Good
+kausik saha,11,11,0,7.13 degrees,Closed,Open,Tilted Up,22-05-2024,51:03.0,W8AFZ2GX,TQBSLSM6,No,Unknown,Good,25,Hard,English,Excellent
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,25,Medium,Subject,Very Good
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,21,Medium,English,Very Good
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,30,Easy,English,Very Good
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,26,Easy,English,Very Good
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,30,Hard,Subject,Excellent
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,19,Easy,English,Good
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,30,Easy,English,Very Good
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,12,Medium,English,Average
+arindam pal,10,0,10,1.06 degrees,Open,Open,Tilted Up,22-05-2024,59:25.9,TE556GDH,J0JAR7X5,No,Unknown,Very Good,2,Easy,English,Poor
+arindam pal,10,0,10,1.06 degrees,Open,Open,Tilted Up,22-05-2024,59:25.9,TE556GDH,J0JAR7X5,No,Unknown,Very Good,21,Medium,English,Very Good
+arindam pal,10,0,10,1.06 degrees,Open,Open,Tilted Up,22-05-2024,59:25.9,TE556GDH,J0JAR7X5,No,Unknown,Very Good,9,Medium,English,Poor
+arindam pal,10,0,10,0.52 degrees,Open,Open,Tilted Up,22-05-2024,59:39.6,NQ3ISOD2,BDRHTIM8,No,Unknown,Very Good,0,Hard,English,Poor
+arindam pal,10,0,10,3.04 degrees,Open,Open,Tilted Up,22-05-2024,59:57.1,P9J5WKK8,SV83XENH,No,Unknown,Very Good,23,Hard,English,Very Good
+arindam pal,10,0,10,3.04 degrees,Open,Open,Tilted Up,22-05-2024,59:57.1,P9J5WKK8,SV83XENH,No,Unknown,Very Good,25,Hard,Aptitude,Excellent
+arindam pal,10,0,10,3.04 degrees,Open,Open,Tilted Up,22-05-2024,59:57.1,P9J5WKK8,SV83XENH,No,Unknown,Very Good,9,Medium,Aptitude,Poor
+arindam pal,10,0,10,1.74 degrees,Open,Open,Tilted Up,22-05-2024,00:10.4,55PAS755,0DUUNIZU,No,Unknown,Very Good,3,Medium,Aptitude,Poor
+arindam pal,10,0,10,1.74 degrees,Open,Open,Tilted Up,22-05-2024,00:10.4,55PAS755,0DUUNIZU,No,Unknown,Very Good,17,Medium,English,Good
+arindam pal,10,0,10,1.74 degrees,Open,Open,Tilted Up,22-05-2024,00:10.4,55PAS755,0DUUNIZU,No,Unknown,Very Good,26,Hard,Aptitude,Excellent
+amisha shaw,3,0,3,-11.41 degrees,Open,Open,Not Moving,22-05-2024,44:51.4,1MXGTY2E,MET2FB35,No,Unknown,Very Good,5,Medium,English,Poor
+amisha shaw,3,0,3,-11.41 degrees,Open,Open,Not Moving,22-05-2024,44:51.4,1MXGTY2E,MET2FB35,No,Unknown,Very Good,15,Medium,Aptitude,Good
+amisha shaw,3,0,3,-7.68 degrees,Open,Open,Tilted Up,22-05-2024,45:04.4,562XNJB1,22MGK9FK,No,Unknown,Very Good,30,Medium,English,Very Good
+shreshta saha,2,2,0,18.25 degrees,Open,Open,Tilted Up,22-05-2024,47:35.7,PSAIEVYB,LVUJRHET,No,Unknown,Very Good,1,Medium,Aptitude,Poor
+shreshta saha,2,2,0,18.25 degrees,Open,Open,Tilted Up,22-05-2024,47:35.7,PSAIEVYB,LVUJRHET,No,Unknown,Very Good,11,Medium,Aptitude,Average
+amisha shaw,3,0,3,-7.68 degrees,Open,Open,Tilted Up,22-05-2024,45:04.4,562XNJB1,22MGK9FK,No,Unknown,Very Good,30,Medium,English,Very Good
+soumya deep saha,94,22,72,2.63 degrees,Open,Open,Tilted Up,21-05-2024,16:57.2,E3DPROH3,02VZR8WN,No,Unknown,Average,17,Easy,Aptitude,Good
+soumya deep saha,94,22,72,2.63 degrees,Open,Open,Tilted Up,21-05-2024,16:57.2,E3DPROH3,02VZR8WN,No,Unknown,Average,20,Medium,English,Very Good
+soumya deep saha,94,22,72,-2.20 degrees,Open,Open,Tilted Up,21-05-2024,17:08.4,XWY124XC,05ZM1PPR,No,Unknown,Average,29,Easy,English,Very Good
+soumya deep saha,94,22,72,-2.20 degrees,Open,Open,Tilted Up,21-05-2024,17:08.4,XWY124XC,05ZM1PPR,No,Unknown,Average,25,Medium,Subject,Very Good
+soumya deep saha,94,22,72,-2.20 degrees,Open,Open,Tilted Up,21-05-2024,17:08.4,XWY124XC,05ZM1PPR,No,Unknown,Average,20,Medium,English,Very Good
+soumya deep saha,94,22,72,-2.20 degrees,Open,Open,Tilted Up,21-05-2024,17:08.4,XWY124XC,05ZM1PPR,No,Unknown,Average,30,Medium,English,Very Good
+soumya deep saha,94,22,72,2.84 degrees,Open,Open,Tilted Up,21-05-2024,17:28.6,NZA6TPEE,RMCOE7J9,Yes,Low,Average,1,Medium,Aptitude,Poor
+soumya deep saha,94,22,72,2.84 degrees,Open,Open,Tilted Up,21-05-2024,17:28.6,NZA6TPEE,RMCOE7J9,Yes,Low,Average,12,Medium,Aptitude,Average
+soumya deep saha,94,22,72,0.00 degrees,Open,Open,Tilted Up,21-05-2024,17:41.0,YSCTIV7A,8VNWXG0T,No,High,Average,22,Hard,Subject,Very Good
+soumya deep saha,94,22,72,0.00 degrees,Open,Open,Tilted Up,22-05-2024,38:16.8,GP7LOICH,JICJRI1H,No,Unknown,Average,10,Hard,English,Average
+soumya deep saha,94,22,72,0.00 degrees,Open,Open,Tilted Up,22-05-2024,38:16.8,GP7LOICH,JICJRI1H,No,Unknown,Average,19,Hard,Subject,Good
+soumya deep saha,94,22,72,0.00 degrees,Open,Open,Tilted Up,22-05-2024,38:16.8,GP7LOICH,JICJRI1H,No,Unknown,Average,20,Hard,Aptitude,Very Good
+soumya deep saha,94,22,72,0.00 degrees,Open,Open,Tilted Up,22-05-2024,38:16.8,GP7LOICH,JICJRI1H,No,Unknown,Average,25,Hard,English,Excellent
+soumya deep saha,94,22,72,0.00 degrees,Open,Open,Tilted Up,22-05-2024,38:16.8,GP7LOICH,JICJRI1H,No,Unknown,Average,23,Easy,Subject,Very Good
+soumya deep saha,94,22,72,1.88 degrees,Open,Open,Tilted Up,22-05-2024,39:03.0,9VH5DY7E,KXEHF2QX,No,Unknown,Average,20,Hard,Subject,Very Good
+soumya deep saha,94,22,72,1.88 degrees,Open,Open,Tilted Up,22-05-2024,39:03.0,9VH5DY7E,KXEHF2QX,No,Unknown,Average,11,Easy,English,Average
+soumya deep saha,94,22,72,1.88 degrees,Open,Open,Tilted Up,22-05-2024,39:03.0,9VH5DY7E,KXEHF2QX,No,Unknown,Average,14,Hard,English,Average
+soumya deep saha,94,22,72,1.88 degrees,Open,Open,Tilted Up,22-05-2024,39:03.0,9VH5DY7E,KXEHF2QX,No,Unknown,Average,19,Medium,Subject,Good
+soumya deep saha,94,22,72,-4.59 degrees,Open,Open,Tilted Down,22-05-2024,39:43.1,FV9C45TD,XEMQZ8L2,No,Unknown,Many Cheater,29,Hard,English,Excellent
+soumya deep saha,94,22,72,-4.59 degrees,Open,Open,Tilted Down,22-05-2024,39:43.1,FV9C45TD,XEMQZ8L2,No,Unknown,Many Cheater,0,Hard,Aptitude,Poor
+soumya deep saha,94,22,72,-4.59 degrees,Open,Open,Tilted Down,22-05-2024,39:43.1,FV9C45TD,XEMQZ8L2,No,Unknown,Many Cheater,19,Easy,Aptitude,Good
+soumya deep saha,94,22,72,3.67 degrees,Open,Open,Not Moving,22-05-2024,40:10.9,9BNVH3MA,86P4WORB,No,Unknown,Average,12,Hard,Subject,Average
+soumya deep saha,94,22,72,3.67 degrees,Open,Open,Not Moving,22-05-2024,40:10.9,9BNVH3MA,86P4WORB,No,Unknown,Average,1,Medium,Subject,Poor
+soumya deep saha,94,22,72,0.82 degrees,Open,Open,Tilted Down,22-05-2024,41:03.2,47AL3V91,IVPWUTGX,No,Unknown,Many Cheater,10,Medium,Aptitude,Average
+soumya deep saha,94,22,72,0.82 degrees,Open,Open,Tilted Down,22-05-2024,41:03.2,47AL3V91,IVPWUTGX,No,Unknown,Many Cheater,28,Medium,English,Very Good
+soumya deep saha,94,22,72,0.82 degrees,Open,Open,Tilted Down,22-05-2024,41:03.2,47AL3V91,IVPWUTGX,No,Unknown,Many Cheater,1,Easy,Subject,Poor
+soumya deep saha,94,22,72,0.82 degrees,Open,Open,Tilted Down,22-05-2024,41:03.2,47AL3V91,IVPWUTGX,No,Unknown,Many Cheater,1,Hard,Subject,Poor
+soumya deep saha,94,22,72,0.82 degrees,Open,Open,Tilted Down,22-05-2024,41:03.2,47AL3V91,IVPWUTGX,No,Unknown,Many Cheater,26,Hard,English,Excellent
+soumya deep saha,94,22,72,0.82 degrees,Open,Open,Tilted Down,22-05-2024,41:03.2,47AL3V91,IVPWUTGX,No,Unknown,Many Cheater,28,Easy,English,Very Good
+soumya deep saha,94,22,72,3.52 degrees,Open,Open,Tilted Up,22-05-2024,41:35.4,UMAOQK45,YKMU09DF,No,Unknown,Average,24,Easy,Aptitude,Very Good
+soumya deep saha,94,22,72,-4.81 degrees,Open,Open,Tilted Down,22-05-2024,43:19.2,OV1BLRRN,IW7ZMTMK,No,Unknown,Many Cheater,26,Easy,English,Very Good
+soumya deep saha,94,22,72,-4.81 degrees,Open,Open,Tilted Down,22-05-2024,43:19.2,OV1BLRRN,IW7ZMTMK,No,Unknown,Many Cheater,15,Easy,Subject,Good
+soumya deep saha,94,22,72,-4.81 degrees,Open,Open,Tilted Down,22-05-2024,43:19.2,OV1BLRRN,IW7ZMTMK,No,Unknown,Many Cheater,24,Hard,English,Very Good
+soumya deep saha,94,22,72,-1.03 degrees,Open,Open,Tilted Up,22-05-2024,43:31.5,FIVZQ0SM,8YSXG64W,No,Unknown,Average,21,Easy,Aptitude,Very Good
+soumya deep saha,94,22,72,-1.03 degrees,Open,Open,Tilted Up,22-05-2024,43:31.5,FIVZQ0SM,8YSXG64W,No,Unknown,Average,21,Medium,Aptitude,Very Good
+soumya deep saha,94,22,72,-1.03 degrees,Open,Open,Tilted Up,22-05-2024,43:31.5,FIVZQ0SM,8YSXG64W,No,Unknown,Average,20,Medium,English,Very Good
+soumya deep saha,94,22,72,-1.03 degrees,Open,Open,Tilted Up,22-05-2024,43:31.5,FIVZQ0SM,8YSXG64W,No,Unknown,Average,14,Easy,Subject,Average
+soumya deep saha,94,22,72,-1.03 degrees,Open,Open,Tilted Up,22-05-2024,43:31.5,FIVZQ0SM,8YSXG64W,No,Unknown,Average,22,Hard,Subject,Very Good
+soumya deep saha,94,22,72,-1.03 degrees,Open,Open,Tilted Up,22-05-2024,43:31.5,FIVZQ0SM,8YSXG64W,No,Unknown,Average,12,Medium,Aptitude,Average
+soumya deep saha,94,22,72,-1.03 degrees,Open,Open,Tilted Up,22-05-2024,43:31.5,FIVZQ0SM,8YSXG64W,No,Unknown,Average,9,Hard,Subject,Poor
+soumya deep saha,94,22,72,2.70 degrees,Open,Open,Not Moving,22-05-2024,44:32.1,PQLLH6OH,JH1RGTCU,No,Unknown,Average,4,Hard,English,Poor
+soumya deep saha,94,22,72,2.70 degrees,Open,Open,Not Moving,22-05-2024,44:32.1,PQLLH6OH,JH1RGTCU,No,Unknown,Average,1,Medium,Subject,Poor
+soumya deep saha,94,22,72,2.70 degrees,Open,Open,Not Moving,22-05-2024,44:32.1,PQLLH6OH,JH1RGTCU,No,Unknown,Average,5,Easy,English,Poor
+soumya deep saha,94,22,72,3.55 degrees,Open,Open,Tilted Up,22-05-2024,44:47.2,23U9400G,YU4BKLNZ,No,Unknown,Average,14,Easy,English,Average
+soumya deep saha,94,22,72,3.55 degrees,Open,Open,Tilted Up,22-05-2024,44:47.2,23U9400G,YU4BKLNZ,No,Unknown,Average,3,Hard,Aptitude,Poor
+soumya deep saha,94,22,72,3.55 degrees,Open,Open,Tilted Up,22-05-2024,44:47.2,23U9400G,YU4BKLNZ,No,Unknown,Average,11,Medium,English,Average
+soumya deep saha,94,22,72,3.55 degrees,Open,Open,Tilted Up,22-05-2024,44:47.2,23U9400G,YU4BKLNZ,No,Unknown,Average,7,Hard,Aptitude,Poor
+soumya deep saha,94,22,72,-1.29 degrees,Closed,Open,Tilted Up,22-05-2024,47:11.4,AX5NLG4S,C1YNT8ST,No,Unknown,Average,0,Easy,Subject,Poor
+soumya deep saha,94,22,72,5.56 degrees,Open,Open,Tilted Up,22-05-2024,47:25.5,2VRXOC0X,GT1P46CU,No,Unknown,Average,13,Easy,English,Average
+soumya deep saha,94,22,72,5.56 degrees,Open,Open,Tilted Up,22-05-2024,47:25.5,2VRXOC0X,GT1P46CU,No,Unknown,Average,12,Medium,Aptitude,Average
+soumya deep saha,94,22,72,5.56 degrees,Open,Open,Tilted Up,22-05-2024,47:25.5,2VRXOC0X,GT1P46CU,No,Unknown,Average,16,Hard,Aptitude,Good
+soumya deep saha,94,22,72,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,5,Hard,Subject,Poor
+soumya deep saha,94,22,72,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,23,Medium,Aptitude,Very Good
+soumya deep saha,94,22,72,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,22,Easy,Aptitude,Very Good
+soumya deep saha,94,22,72,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,29,Medium,Aptitude,Very Good
+soumya deep saha,94,22,72,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,0,Hard,Subject,Poor
+soumya deep saha,94,22,72,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,10,Easy,Subject,Average
+soumya deep saha,94,22,72,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,17,Easy,Subject,Good
+soumya deep saha,94,22,72,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,19,Easy,Subject,Good
+soumya deep saha,94,22,72,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,6,Hard,English,Poor
+soumya deep saha,94,22,72,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,18,Easy,English,Good
+soumya deep saha,94,22,72,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,15,Medium,Subject,Good
+soumya deep saha,94,22,72,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,28,Medium,English,Very Good
+soumya deep saha,94,22,72,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,4,Hard,Subject,Poor
+soumya deep saha,94,22,72,-0.55 degrees,Open,Open,Not Moving,22-05-2024,50:03.2,O08LPSFR,FJIKWI4M,No,Unknown,Average,14,Easy,English,Average
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,24,Hard,Subject,Very Good
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,14,Hard,Aptitude,Average
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,5,Easy,Subject,Poor
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,12,Hard,Aptitude,Average
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,21,Hard,Subject,Very Good
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,3,Easy,Subject,Poor
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,18,Medium,Subject,Good
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,4,Hard,Subject,Poor
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,9,Medium,English,Poor
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,6,Medium,Aptitude,Poor
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,10,Hard,Subject,Average
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,0,Hard,Aptitude,Poor
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,1,Hard,English,Poor
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,12,Medium,Subject,Average
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,17,Easy,English,Good
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,15,Medium,Aptitude,Good
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,2,Hard,English,Poor
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,10,Hard,Aptitude,Average
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,4,Easy,Aptitude,Poor
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,27,Medium,Subject,Very Good
+soumya deep saha,94,22,72,-1.79 degrees,Closed,Open,Tilted Down,22-05-2024,53:57.0,K4JEQ4MY,G9HKTD3S,No,Unknown,Many Cheater,2,Easy,Subject,Poor
+soumya deep saha,94,22,72,-3.51 degrees,Open,Open,Not Moving,22-05-2024,12:33.5,Y7BWVPTS,PL5EHY70,No,Unknown,Average,24,Medium,English,Very Good
+soumya deep saha,94,22,72,6.52 degrees,Open,Open,Tilted Up,22-05-2024,12:54.6,7DQ8PUOA,W9L3BLX2,No,Unknown,Average,0,Hard,Aptitude,Poor
+soumya deep saha,94,22,72,6.52 degrees,Open,Open,Tilted Up,22-05-2024,12:54.6,7DQ8PUOA,W9L3BLX2,No,Unknown,Average,1,Hard,Aptitude,Poor
+soumya deep saha,94,22,72,6.52 degrees,Open,Open,Tilted Up,22-05-2024,12:54.6,7DQ8PUOA,W9L3BLX2,No,Unknown,Average,28,Hard,Subject,Excellent
+soumya deep saha,94,22,72,5.86 degrees,Open,Open,Tilted Up,22-05-2024,13:31.8,QFMZDOUQ,K5E3EUAH,No,Unknown,Average,13,Medium,English,Average
+soumya deep saha,94,22,72,5.86 degrees,Open,Open,Tilted Up,22-05-2024,13:31.8,QFMZDOUQ,K5E3EUAH,No,Unknown,Average,0,Easy,Subject,Poor
+soumya deep saha,94,22,72,9.77 degrees,Open,Open,Tilted Up,22-05-2024,13:49.2,K6MUWVID,53RASJCW,No,Unknown,Average,0,Hard,English,Poor
+soumya deep saha,94,22,72,9.77 degrees,Open,Open,Tilted Up,22-05-2024,13:49.2,K6MUWVID,53RASJCW,No,Unknown,Average,17,Medium,English,Good
+dola saha,37,32,5,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Average,20,Medium,Subject,Very Good
+dola saha,37,32,5,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Average,24,Easy,Subject,Very Good
+dola saha,37,32,5,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Average,23,Medium,English,Very Good
+dola saha,37,32,5,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Average,9,Easy,Aptitude,Poor
+dola saha,37,32,5,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Average,29,Hard,Aptitude,Excellent
+dola saha,37,32,5,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Average,21,Medium,Subject,Very Good
+dola saha,37,32,5,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Average,15,Easy,Subject,Good
+dola saha,37,32,5,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Average,28,Hard,Aptitude,Excellent
+dola saha,37,32,5,21.09 degrees,Open,Open,Tilted Up,22-05-2024,38:58.9,8HVJ0RIK,0PDJTUTK,No,Unknown,Average,28,Medium,English,Very Good
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Average,4,Hard,Aptitude,Poor
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Average,10,Hard,English,Average
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Average,2,Easy,Aptitude,Poor
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Average,14,Hard,English,Average
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Average,18,Hard,Subject,Good
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Average,10,Hard,Aptitude,Average
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Average,5,Hard,English,Poor
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,40:59.1,8F6O0MRI,QVW1TJWZ,No,Unknown,Average,15,Easy,Aptitude,Good
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,13,Medium,Subject,Average
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,15,Easy,Aptitude,Good
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,4,Medium,English,Poor
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,17,Easy,English,Good
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,13,Hard,Aptitude,Average
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,6,Medium,English,Poor
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,8,Hard,Subject,Poor
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,26,Hard,English,Excellent
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,12,Easy,Subject,Average
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,15,Medium,Aptitude,Good
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,21,Medium,English,Very Good
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,0,Easy,Aptitude,Poor
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,1,Medium,Subject,Poor
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,17,Medium,Aptitude,Good
+dola saha,37,32,5,21.71 degrees,Open,Open,Tilted Up,22-05-2024,49:53.2,1KY92XIQ,WHBCJ5PW,No,Unknown,Average,7,Easy,Aptitude,Poor
+dola saha,37,32,5,6.60 degrees,Open,Open,Tilted Up,22-05-2024,13:06.6,GGWAT8Z6,U0CKHD3R,No,Unknown,Average,27,Easy,Aptitude,Very Good
+dola saha,37,32,5,6.60 degrees,Open,Open,Tilted Up,22-05-2024,13:06.6,GGWAT8Z6,U0CKHD3R,No,Unknown,Average,1,Easy,Subject,Poor
+dola saha,37,32,5,4.67 degrees,Open,Open,Tilted Down,22-05-2024,13:39.2,7TMKF9D7,AWRHGJB8,No,Unknown,Many Cheater,22,Hard,Aptitude,Very Good
+dola saha,37,32,5,4.67 degrees,Open,Open,Tilted Down,22-05-2024,13:39.2,7TMKF9D7,AWRHGJB8,No,Unknown,Many Cheater,19,Medium,Aptitude,Good
+dola saha,37,32,5,4.67 degrees,Open,Open,Tilted Down,22-05-2024,13:39.2,7TMKF9D7,AWRHGJB8,No,Unknown,Many Cheater,2,Easy,English,Poor
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,No,Unknown,Many Cheater,9,Medium,Aptitude,Poor
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,No,Unknown,Many Cheater,12,Easy,English,Average
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,No,Unknown,Many Cheater,16,Medium,Aptitude,Good
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,No,Unknown,Many Cheater,30,Easy,Aptitude,Very Good
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,No,Unknown,Many Cheater,29,Easy,Aptitude,Very Good
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,No,Unknown,Many Cheater,29,Hard,Aptitude,Excellent
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,No,Unknown,Many Cheater,16,Hard,English,Good
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,No,Unknown,Many Cheater,9,Medium,English,Poor
+sandip basak,31,9,22,-6.30 degrees,Open,Open,Tilted Down,22-05-2024,39:16.2,4QL607EM,9P0NZBZR,No,Unknown,Many Cheater,2,Easy,Subject,Poor
+sandip basak,31,9,22,-1.77 degrees,Open,Closed,Not Moving,22-05-2024,41:22.4,CWDMASPZ,PEQ5YVMH,No,Unknown,Very Good,15,Hard,Subject,Good
+sandip basak,31,9,22,-1.77 degrees,Open,Closed,Not Moving,22-05-2024,41:22.4,CWDMASPZ,PEQ5YVMH,No,Unknown,Very Good,9,Medium,Aptitude,Poor
+sandip basak,31,9,22,-1.77 degrees,Open,Closed,Not Moving,22-05-2024,41:22.4,CWDMASPZ,PEQ5YVMH,No,Unknown,Very Good,5,Easy,Aptitude,Poor
+sandip basak,31,9,22,-1.77 degrees,Open,Closed,Not Moving,22-05-2024,41:22.4,CWDMASPZ,PEQ5YVMH,No,Unknown,Very Good,1,Medium,English,Poor
+sandip basak,31,9,22,2.02 degrees,Closed,Open,Tilted Up,22-05-2024,49:27.2,Z0E24EL8,1YWDCBHA,No,Unknown,Very Good,24,Easy,Subject,Very Good
+sandip basak,31,9,22,2.02 degrees,Closed,Open,Tilted Up,22-05-2024,49:27.2,Z0E24EL8,1YWDCBHA,No,Unknown,Very Good,27,Easy,English,Very Good
+sandip basak,31,9,22,2.02 degrees,Closed,Open,Tilted Up,22-05-2024,49:27.2,Z0E24EL8,1YWDCBHA,No,Unknown,Very Good,23,Medium,English,Very Good
+sandip basak,31,9,22,2.02 degrees,Closed,Open,Tilted Up,22-05-2024,49:27.2,Z0E24EL8,1YWDCBHA,No,Unknown,Very Good,3,Easy,Aptitude,Poor
+sandip basak,31,9,22,2.02 degrees,Closed,Open,Tilted Up,22-05-2024,49:27.2,Z0E24EL8,1YWDCBHA,No,Unknown,Very Good,2,Hard,English,Poor
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,15,Easy,Aptitude,Good
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,16,Hard,Aptitude,Good
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,6,Easy,Aptitude,Poor
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,10,Medium,Aptitude,Average
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,14,Easy,English,Average
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,5,Easy,Subject,Poor
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,17,Easy,English,Good
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,4,Easy,Aptitude,Poor
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,0,Hard,Subject,Poor
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,24,Easy,Aptitude,Very Good
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,2,Hard,English,Poor
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,5,Easy,Subject,Poor
+sandip basak,31,9,22,4.17 degrees,Open,Open,Tilted Up,22-05-2024,50:07.4,14TW6O2M,3TMYUR6Z,No,Unknown,Very Good,9,Easy,Aptitude,Poor
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,4,Hard,Subject,Poor
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,25,Hard,Aptitude,Excellent
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,18,Easy,Aptitude,Good
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,9,Easy,Subject,Poor
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,0,Medium,English,Poor
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,27,Medium,Subject,Very Good
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,14,Hard,Aptitude,Average
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,0,Hard,English,Poor
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,21,Medium,Aptitude,Very Good
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,16,Hard,English,Good
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,10,Medium,Aptitude,Average
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,9,Hard,Aptitude,Poor
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,25,Medium,Subject,Very Good
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,21,Medium,Subject,Very Good
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,5,Easy,Subject,Poor
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,1,Easy,Subject,Poor
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,28,Hard,English,Excellent
+saumyadeep das,29,0,29,7.95 degrees,Open,Open,Tilted Up,22-05-2024,38:51.5,1GMFZMFV,TA7SW5WZ,No,Unknown,Very Good,1,Medium,English,Poor
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,12,Hard,English,Average
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,27,Hard,English,Excellent
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,9,Easy,English,Poor
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,10,Hard,Subject,Average
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,7,Medium,Aptitude,Poor
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,23,Hard,Subject,Very Good
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,10,Hard,English,Average
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,5,Medium,Aptitude,Poor
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,12,Medium,Aptitude,Average
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,18,Hard,Aptitude,Good
+saumyadeep das,29,0,29,-5.76 degrees,Open,Open,Tilted Up,22-05-2024,59:20.7,YK92HDRJ,3QTPCU5W,No,Unknown,Very Good,30,Hard,Aptitude,Excellent
+pradipta here,26,17,9,-1.41 degrees,Open,Closed,Not Moving,21-05-2024,17:18.1,1YWP9E17,RPLPBONW,No,Unknown,Good,4,Hard,Aptitude,Poor
+pradipta here,26,17,9,-1.41 degrees,Open,Closed,Not Moving,21-05-2024,17:18.1,1YWP9E17,RPLPBONW,No,Unknown,Good,21,Easy,Aptitude,Very Good
+pradipta here,26,17,9,-1.41 degrees,Open,Closed,Not Moving,21-05-2024,17:18.1,1YWP9E17,RPLPBONW,No,Unknown,Good,21,Easy,Subject,Very Good
+pradipta here,26,17,9,-1.41 degrees,Open,Closed,Not Moving,21-05-2024,17:18.1,1YWP9E17,RPLPBONW,No,Unknown,Good,4,Hard,English,Poor
+pradipta here,26,17,9,-1.41 degrees,Open,Closed,Not Moving,21-05-2024,17:18.1,1YWP9E17,RPLPBONW,No,Unknown,Good,23,Hard,Aptitude,Very Good
+pradipta here,26,17,9,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,18,Hard,Subject,Good
+pradipta here,26,17,9,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,14,Easy,Subject,Average
+pradipta here,26,17,9,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,7,Medium,Aptitude,Poor
+pradipta here,26,17,9,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,28,Easy,Aptitude,Very Good
+pradipta here,26,17,9,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,14,Easy,Aptitude,Average
+pradipta here,26,17,9,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,16,Easy,English,Good
+pradipta here,26,17,9,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,12,Easy,English,Average
+pradipta here,26,17,9,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,13,Hard,Subject,Average
+pradipta here,26,17,9,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,27,Easy,Aptitude,Very Good
+pradipta here,26,17,9,5.42 degrees,Closed,Closed,Tilted Up,22-05-2024,50:58.9,VBMEI1OX,33XXO40H,No,Unknown,Good,8,Easy,Subject,Poor
+pradipta here,26,17,9,-1.22 degrees,Closed,Closed,Tilted Down,22-05-2024,52:04.1,9WCHCNOE,ZW1K9XOF,No,Unknown,Many Cheater,30,Medium,Aptitude,Very Good
+pradipta here,26,17,9,-1.22 degrees,Closed,Closed,Tilted Down,22-05-2024,52:04.1,9WCHCNOE,ZW1K9XOF,No,Unknown,Many Cheater,17,Easy,English,Good
+pradipta here,26,17,9,-0.46 degrees,Open,Open,Not Moving,22-05-2024,12:29.4,75AGJFAG,O398X76X,No,Unknown,Good,22,Easy,Subject,Very Good
+pradipta here,26,17,9,-0.46 degrees,Open,Open,Not Moving,22-05-2024,12:29.4,75AGJFAG,O398X76X,No,Unknown,Good,4,Medium,Aptitude,Poor
+pradipta here,26,17,9,-0.46 degrees,Open,Open,Not Moving,22-05-2024,12:29.4,75AGJFAG,O398X76X,No,Unknown,Good,27,Medium,Subject,Very Good
+pradipta here,26,17,9,-0.46 degrees,Open,Open,Not Moving,22-05-2024,12:29.4,75AGJFAG,O398X76X,No,Unknown,Good,5,Hard,Aptitude,Poor
+pradipta here,26,17,9,-0.46 degrees,Open,Open,Not Moving,22-05-2024,12:29.4,75AGJFAG,O398X76X,No,Unknown,Good,15,Hard,Subject,Good
+pradipta here,26,17,9,-0.46 degrees,Open,Open,Not Moving,22-05-2024,12:29.4,75AGJFAG,O398X76X,No,Unknown,Good,9,Medium,English,Poor
+pradipta here,26,17,9,-0.46 degrees,Open,Open,Not Moving,22-05-2024,12:29.4,75AGJFAG,O398X76X,No,Unknown,Good,10,Easy,Aptitude,Average
+pradipta here,26,17,9,-0.46 degrees,Open,Open,Not Moving,22-05-2024,12:29.4,75AGJFAG,O398X76X,No,Unknown,Good,26,Easy,Aptitude,Very Good
+pradipta here,26,17,9,-0.46 degrees,Open,Open,Not Moving,22-05-2024,12:29.4,75AGJFAG,O398X76X,No,Unknown,Good,21,Hard,Subject,Very Good
+parna mitra,20,20,0,10.78 degrees,Open,Open,Tilted Up,22-05-2024,54:04.0,LWHTJQDP,JIW3JL28,No,Unknown,Good,7,Easy,English,Poor
+parna mitra,20,20,0,10.78 degrees,Open,Open,Tilted Up,22-05-2024,54:04.0,LWHTJQDP,JIW3JL28,No,Unknown,Good,9,Hard,English,Poor
+parna mitra,20,20,0,11.18 degrees,Open,Open,Tilted Up,22-05-2024,54:18.7,J9VOYLX8,FWJIH2V0,No,Unknown,Good,4,Medium,Subject,Poor
+parna mitra,20,20,0,11.18 degrees,Open,Open,Tilted Up,22-05-2024,54:18.7,J9VOYLX8,FWJIH2V0,No,Unknown,Good,18,Hard,English,Good
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,6,Medium,Subject,Poor
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,21,Hard,Aptitude,Very Good
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,0,Hard,English,Poor
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,24,Easy,Aptitude,Very Good
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,14,Medium,Subject,Average
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,5,Medium,English,Poor
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,4,Medium,Subject,Poor
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,7,Medium,Aptitude,Poor
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,18,Medium,Subject,Good
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,0,Hard,Aptitude,Poor
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,28,Easy,Subject,Very Good
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,15,Easy,Aptitude,Good
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,26,Medium,English,Very Good
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,0,Medium,Aptitude,Poor
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,20,Medium,Aptitude,Very Good
+parna mitra,20,20,0,10.66 degrees,Open,Closed,Tilted Up,22-05-2024,54:35.3,SYPG8SB1,6TCNETS3,No,Unknown,Good,29,Hard,Aptitude,Excellent
+priyambada das,19,19,0,22.25 degrees,Open,Open,Tilted Up,22-05-2024,38:47.2,IYCIMSCZ,RM68WPWS,No,Unknown,Good,27,Hard,English,Excellent
+priyambada das,19,19,0,22.25 degrees,Open,Open,Tilted Up,22-05-2024,38:47.2,IYCIMSCZ,RM68WPWS,No,Unknown,Good,3,Hard,English,Poor
+priyambada das,19,19,0,22.25 degrees,Open,Open,Tilted Up,22-05-2024,38:47.2,IYCIMSCZ,RM68WPWS,No,Unknown,Good,8,Hard,Subject,Poor
+priyambada das,19,19,0,22.25 degrees,Open,Open,Tilted Up,22-05-2024,38:47.2,IYCIMSCZ,RM68WPWS,No,Unknown,Good,4,Medium,Aptitude,Poor
+priyambada das,19,19,0,22.25 degrees,Open,Open,Tilted Up,22-05-2024,38:47.2,IYCIMSCZ,RM68WPWS,No,Unknown,Good,11,Hard,Aptitude,Average
+priyambada das,19,19,0,16.96 degrees,Open,Open,Tilted Up,22-05-2024,39:11.8,CJ5QF1P8,79BKYHZ3,No,Unknown,Good,2,Hard,Subject,Poor
+priyambada das,19,19,0,16.96 degrees,Open,Open,Tilted Up,22-05-2024,39:11.8,CJ5QF1P8,79BKYHZ3,No,Unknown,Good,29,Medium,Aptitude,Very Good
+priyambada das,19,19,0,16.96 degrees,Open,Open,Tilted Up,22-05-2024,39:11.8,CJ5QF1P8,79BKYHZ3,No,Unknown,Good,29,Easy,English,Very Good
+priyambada das,19,19,0,20.51 degrees,Open,Open,Tilted Up,22-05-2024,39:50.7,YOMRM8IS,VOLHWP27,No,Unknown,Good,4,Hard,English,Poor
+priyambada das,19,19,0,20.51 degrees,Open,Open,Tilted Up,22-05-2024,39:50.7,YOMRM8IS,VOLHWP27,No,Unknown,Good,30,Medium,English,Very Good
+priyambada das,19,19,0,20.51 degrees,Open,Open,Tilted Up,22-05-2024,39:50.7,YOMRM8IS,VOLHWP27,No,Unknown,Good,16,Hard,English,Good
+priyambada das,19,19,0,20.51 degrees,Open,Open,Tilted Up,22-05-2024,39:50.7,YOMRM8IS,VOLHWP27,No,Unknown,Good,13,Easy,Subject,Average
+priyambada das,19,19,0,20.51 degrees,Open,Open,Tilted Up,22-05-2024,39:50.7,YOMRM8IS,VOLHWP27,No,Unknown,Good,8,Hard,Aptitude,Poor
+priyambada das,19,19,0,17.61 degrees,Open,Open,Tilted Up,22-05-2024,41:08.3,AME3ZKRO,4UUZH09R,No,Unknown,Good,9,Hard,English,Poor
+priyambada das,19,19,0,17.61 degrees,Open,Open,Tilted Up,22-05-2024,41:08.3,AME3ZKRO,4UUZH09R,No,Unknown,Good,3,Hard,Subject,Poor
+priyambada das,19,19,0,17.61 degrees,Open,Open,Tilted Up,22-05-2024,41:08.3,AME3ZKRO,4UUZH09R,No,Unknown,Good,30,Easy,Aptitude,Very Good
+priyambada das,19,19,0,19.05 degrees,Open,Open,Tilted Up,22-05-2024,41:26.6,5S0YTVF0,01IBGWCQ,No,Unknown,Good,5,Easy,Subject,Poor
+priyambada das,19,19,0,19.05 degrees,Open,Open,Tilted Up,22-05-2024,41:26.6,5S0YTVF0,01IBGWCQ,No,Unknown,Good,1,Easy,English,Poor
+priyambada das,19,19,0,19.05 degrees,Open,Open,Tilted Up,22-05-2024,41:26.6,5S0YTVF0,01IBGWCQ,No,Unknown,Good,23,Hard,English,Very Good
+santarpan pal,17,1,16,0.31 degrees,Open,Open,Tilted Down,22-05-2024,51:51.8,9P0E1PVM,R33O8TUX,No,Unknown,Many Cheater,21,Medium,English,Very Good
+santarpan pal,17,1,16,0.31 degrees,Open,Open,Tilted Down,22-05-2024,51:51.8,9P0E1PVM,R33O8TUX,No,Unknown,Many Cheater,18,Easy,Subject,Good
+santarpan pal,17,1,16,0.31 degrees,Open,Open,Tilted Down,22-05-2024,51:51.8,9P0E1PVM,R33O8TUX,No,Unknown,Many Cheater,9,Easy,English,Poor
+santarpan pal,17,1,16,0.31 degrees,Open,Open,Tilted Down,22-05-2024,51:51.8,9P0E1PVM,R33O8TUX,No,Unknown,Many Cheater,24,Medium,Subject,Very Good
+santarpan pal,17,1,16,-3.05 degrees,Closed,Closed,Tilted Down,22-05-2024,52:08.3,GL3RQSXV,B6X1Q7XP,No,Unknown,Many Cheater,16,Hard,Subject,Good
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,28,Hard,Aptitude,Excellent
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,24,Medium,Aptitude,Very Good
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,17,Hard,Subject,Good
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,22,Hard,Aptitude,Very Good
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,21,Medium,Aptitude,Very Good
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,13,Hard,English,Average
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,15,Easy,English,Good
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,24,Hard,English,Very Good
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,10,Medium,Subject,Average
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,11,Medium,English,Average
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,11,Medium,Subject,Average
+santarpan pal,17,1,16,-2.06 degrees,Open,Open,Tilted Up,22-05-2024,59:16.6,UL72KNUW,H9UMQ6HM,No,Unknown,Very Good,2,Medium,Subject,Poor
+saptaparni rishi,13,0,13,2.09 degrees,Open,Open,Tilted Up,22-05-2024,43:36.0,C6TYI573,VBJ8BTMO,No,Unknown,Very Good,21,Hard,Aptitude,Very Good
+saptaparni rishi,13,0,13,2.09 degrees,Open,Open,Tilted Up,22-05-2024,43:36.0,C6TYI573,VBJ8BTMO,No,Unknown,Very Good,27,Easy,Subject,Very Good
+saptaparni rishi,13,0,13,0.97 degrees,Open,Open,Tilted Up,22-05-2024,43:53.1,1LZ4L1FP,19XS99AC,No,Unknown,Very Good,4,Easy,Aptitude,Poor
+saptaparni rishi,13,0,13,0.97 degrees,Open,Open,Tilted Up,22-05-2024,43:53.1,1LZ4L1FP,19XS99AC,No,Unknown,Very Good,29,Medium,Aptitude,Very Good
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,21,Medium,English,Very Good
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,21,Hard,Aptitude,Very Good
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,6,Easy,Subject,Poor
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,10,Easy,Aptitude,Average
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,9,Hard,Subject,Poor
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,4,Easy,Subject,Poor
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,27,Easy,Subject,Very Good
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,22,Hard,Aptitude,Very Good
+saptaparni rishi,13,0,13,0.87 degrees,Open,Open,Tilted Up,22-05-2024,44:12.8,NY0WR1VZ,GSFL4XPX,No,Unknown,Very Good,4,Medium,English,Poor
+debjit mukharjee,13,0,13,-0.66 degrees,Open,Open,Tilted Up,22-05-2024,59:12.5,06AURGM5,X41CDNKF,No,Unknown,Very Good,8,Medium,Subject,Poor
+debjit mukharjee,13,0,13,-0.66 degrees,Open,Open,Tilted Up,22-05-2024,59:12.5,06AURGM5,X41CDNKF,No,Unknown,Very Good,20,Easy,Aptitude,Very Good
+debjit mukharjee,13,0,13,-0.66 degrees,Open,Open,Tilted Up,22-05-2024,59:12.5,06AURGM5,X41CDNKF,No,Unknown,Very Good,21,Easy,Subject,Very Good
+debjit mukharjee,13,0,13,-0.66 degrees,Open,Open,Tilted Up,22-05-2024,59:12.5,06AURGM5,X41CDNKF,No,Unknown,Very Good,2,Hard,Aptitude,Poor
+debjit mukharjee,13,0,13,0.00 degrees,Open,Open,Tilted Up,22-05-2024,59:30.1,OROXO9ZJ,WINLYBGD,No,Unknown,Very Good,17,Easy,Aptitude,Good
+debjit mukharjee,13,0,13,0.00 degrees,Open,Open,Tilted Up,22-05-2024,59:30.1,OROXO9ZJ,WINLYBGD,No,Unknown,Very Good,14,Medium,Aptitude,Average
+debjit mukharjee,13,0,13,0.00 degrees,Open,Open,Tilted Up,22-05-2024,59:30.1,OROXO9ZJ,WINLYBGD,No,Unknown,Very Good,10,Medium,Aptitude,Average
+debjit mukharjee,13,0,13,0.00 degrees,Open,Open,Tilted Up,22-05-2024,59:30.1,OROXO9ZJ,WINLYBGD,No,Unknown,Very Good,30,Medium,Subject,Very Good
+debjit mukharjee,13,0,13,0.00 degrees,Open,Open,Tilted Up,22-05-2024,59:30.1,OROXO9ZJ,WINLYBGD,No,Unknown,Very Good,20,Medium,Aptitude,Very Good
+debjit mukharjee,13,0,13,4.53 degrees,Open,Open,Tilted Up,22-05-2024,00:06.3,PHUPVC6H,TCOENI62,No,Unknown,Very Good,8,Hard,Subject,Poor
+debjit mukharjee,13,0,13,4.53 degrees,Open,Open,Tilted Up,22-05-2024,00:06.3,PHUPVC6H,TCOENI62,No,Unknown,Very Good,23,Medium,English,Very Good
+debjit mukharjee,13,0,13,4.53 degrees,Open,Open,Tilted Up,22-05-2024,00:06.3,PHUPVC6H,TCOENI62,No,Unknown,Very Good,7,Medium,Subject,Poor
+debjit mukharjee,13,0,13,-4.44 degrees,Open,Open,Tilted Up,22-05-2024,00:18.6,SFP5A0ZH,SHPW8HPW,No,Unknown,Very Good,6,Easy,Subject,Poor
+kausik saha,11,11,0,7.13 degrees,Closed,Open,Tilted Up,22-05-2024,51:03.0,W8AFZ2GX,TQBSLSM6,No,Unknown,Good,26,Easy,Aptitude,Very Good
+kausik saha,11,11,0,7.13 degrees,Closed,Open,Tilted Up,22-05-2024,51:03.0,W8AFZ2GX,TQBSLSM6,No,Unknown,Good,12,Hard,English,Average
+kausik saha,11,11,0,7.13 degrees,Closed,Open,Tilted Up,22-05-2024,51:03.0,W8AFZ2GX,TQBSLSM6,No,Unknown,Good,9,Medium,Aptitude,Poor
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,9,Easy,English,Poor
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,7,Medium,Subject,Poor
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,21,Easy,Subject,Very Good
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,0,Medium,Subject,Poor
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,7,Medium,Subject,Poor
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,5,Medium,Subject,Poor
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,26,Easy,Subject,Very Good
+kausik saha,11,11,0,7.54 degrees,Closed,Open,Tilted Up,22-05-2024,51:15.3,3D3XLZ39,CZCJDRAA,No,Unknown,Good,23,Hard,Aptitude,Very Good
+arindam pal,10,0,10,1.06 degrees,Open,Open,Tilted Up,22-05-2024,59:25.9,TE556GDH,J0JAR7X5,No,Unknown,Very Good,27,Medium,Aptitude,Very Good
+arindam pal,10,0,10,1.06 degrees,Open,Open,Tilted Up,22-05-2024,59:25.9,TE556GDH,J0JAR7X5,No,Unknown,Very Good,27,Hard,Aptitude,Excellent
+arindam pal,10,0,10,1.06 degrees,Open,Open,Tilted Up,22-05-2024,59:25.9,TE556GDH,J0JAR7X5,No,Unknown,Very Good,11,Easy,Subject,Average
+arindam pal,10,0,10,0.52 degrees,Open,Open,Tilted Up,22-05-2024,59:39.6,NQ3ISOD2,BDRHTIM8,No,Unknown,Very Good,23,Medium,Subject,Very Good
+arindam pal,10,0,10,3.04 degrees,Open,Open,Tilted Up,22-05-2024,59:57.1,P9J5WKK8,SV83XENH,No,Unknown,Very Good,27,Hard,Aptitude,Excellent
+arindam pal,10,0,10,3.04 degrees,Open,Open,Tilted Up,22-05-2024,59:57.1,P9J5WKK8,SV83XENH,No,Unknown,Very Good,0,Medium,Subject,Poor
+arindam pal,10,0,10,3.04 degrees,Open,Open,Tilted Up,22-05-2024,59:57.1,P9J5WKK8,SV83XENH,No,Unknown,Very Good,19,Easy,Subject,Good
+arindam pal,10,0,10,1.74 degrees,Open,Open,Tilted Up,22-05-2024,00:10.4,55PAS755,0DUUNIZU,No,Unknown,Very Good,25,Medium,Subject,Very Good
+arindam pal,10,0,10,1.74 degrees,Open,Open,Tilted Up,22-05-2024,00:10.4,55PAS755,0DUUNIZU,No,Unknown,Very Good,16,Easy,Subject,Good
+arindam pal,10,0,10,1.74 degrees,Open,Open,Tilted Up,22-05-2024,00:10.4,55PAS755,0DUUNIZU,No,Unknown,Very Good,23,Hard,Aptitude,Very Good
+sutanu mukherjee,6,0,6,7.50 degrees,Open,Open,Tilted Down,22-05-2024,13:00.6,8S99AKKM,0TYE1V3J,No,Unknown,Many Cheater,26,Medium,Aptitude,Very Good
+sutanu mukherjee,6,0,6,7.50 degrees,Open,Open,Tilted Down,22-05-2024,13:00.6,8S99AKKM,0TYE1V3J,No,Unknown,Many Cheater,7,Medium,Aptitude,Poor
+sutanu mukherjee,6,0,6,7.50 degrees,Open,Open,Tilted Down,22-05-2024,13:00.6,8S99AKKM,0TYE1V3J,No,Unknown,Many Cheater,4,Easy,English,Poor
+sutanu mukherjee,6,0,6,7.50 degrees,Open,Open,Tilted Down,22-05-2024,13:00.6,8S99AKKM,0TYE1V3J,No,Unknown,Many Cheater,9,Hard,Aptitude,Poor
+sutanu mukherjee,6,0,6,7.50 degrees,Open,Open,Tilted Down,22-05-2024,13:00.6,8S99AKKM,0TYE1V3J,No,Unknown,Many Cheater,2,Easy,English,Poor
+sutanu mukherjee,6,0,6,7.50 degrees,Open,Open,Tilted Down,22-05-2024,13:00.6,8S99AKKM,0TYE1V3J,No,Unknown,Many Cheater,22,Hard,Aptitude,Very Good
+amisha shaw,3,0,3,-11.41 degrees,Open,Open,Not Moving,22-05-2024,44:51.4,1MXGTY2E,MET2FB35,No,Unknown,Very Good,15,Hard,English,Good
+amisha shaw,3,0,3,-11.41 degrees,Open,Open,Not Moving,22-05-2024,44:51.4,1MXGTY2E,MET2FB35,No,Unknown,Very Good,25,Medium,Aptitude,Very Good
+amisha shaw,3,0,3,-7.68 degrees,Open,Open,Tilted Up,22-05-2024,45:04.4,562XNJB1,22MGK9FK,No,Unknown,Very Good,28,Easy,Aptitude,Very Good
+shreshta saha,2,2,0,18.25 degrees,Open,Open,Tilted Up,22-05-2024,47:35.7,PSAIEVYB,LVUJRHET,No,Unknown,Very Good,11,Medium,English,Average
+shreshta saha,2,2,0,18.25 degrees,Open,Open,Tilted Up,22-05-2024,47:35.7,PSAIEVYB,LVUJRHET,No,Unknown,Very Good,4,Hard,English,Poor
